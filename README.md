@@ -1,0 +1,2 @@
+# Estimating_Credit_Rating_Transition_Matrices_Hazard_Vs_Cohort_Method
+Estimating Credit Rating Transition Matrices in Python using Hazard and Cohort Methods
