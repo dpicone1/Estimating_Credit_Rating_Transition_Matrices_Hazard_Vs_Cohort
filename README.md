@@ -1,4 +1,4 @@
-# Estimating_Credit_Rating_Transition_Matrices_Hazard_Vs_Cohort_Method
+# Estimating_Credit_Rating_Transition_Matrices_Hazard_Vs_Cohort
 Estimating Credit Rating Transition Matrices in Python using Hazard and Cohort Methods
 
 In this Python notebook, we use two estimation procedures, the cohortcohort approach and the hazardhazard approach to build historical credit risk transition matrices.
